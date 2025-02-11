@@ -1,6 +1,6 @@
 👋 Hi, I’m Elsa Doré.
 
-💼 I'm a Data Analytics Engineer based in Chicago, currently working in the automotive tech industry.
+💼 I'm a Data Analytics Engineer based in Paris, currently working in the automotive tech industry.
 
 👀 I’m interested in analysis and prediction related to product analytics, healthcare, and user experiences. My work typically focuses on predictive analytics, reporting & insights, and defining new metrics. The tools I primarily use are Python, R, SQL, Tableau, and GCP.
 
