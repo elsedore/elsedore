@@ -1,6 +1,6 @@
 👋 Hi, I’m Elsa Doré.
 
-💼 I'm a Data Analytics Engineer based in Paris, currently working in the automotive tech industry.
+💼 I'm a Data Analytics Consultant based in Paris, currently working in the automotive tech industry.
 
 👀 I’m interested in analysis and prediction related to product analytics, healthcare, and user experiences. My work typically focuses on predictive analytics, reporting & insights, and defining new metrics. The tools I primarily use are Python, R, SQL, Tableau, and GCP.
 
@@ -8,7 +8,7 @@
 
 💞️ I enjoy building communities in analytics & tech. I'm a member of Data For Good, helped on participating in Climate and Biodiversity projects, and you can usually find me in one of their Slack communities.
 
-📝 I share my thoughts on LinkedIn and Youtube especially on how to break into the analytics field and how to enjoy life wisely.
+📝 I share my thoughts on LinkedIn especially on how to break into the analytics field.
 
 📫 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/elsadore/).
 
