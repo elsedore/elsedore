@@ -3,7 +3,7 @@
 💼 I'm a Data Analytics Consultant based in Paris, currently working in the automotive tech industry.
 
 👀 I’m interested in analysis and prediction related to product analytics, healthcare, and user experiences. My work typically focuses on predictive analytics, reporting & insights, and defining new metrics. The tools I primarily use are Python, R, SQL, Tableau, and GCP.
-🫢 Fun-fact, I also have a software development background [here my formal github space](https://github.com/sheismeld).
+🫢 Fun-fact, I also have a software development background ([my formal github](https://github.com/sheismeld)).
 
 🌱 I recently worked on articles personnal recommandation systems based on user preferences for an online wearing shop. I'm currently learning more data scientist stuffs.
 
