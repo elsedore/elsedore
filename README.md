@@ -1,6 +1,8 @@
 👋 Hi, I’m Elsa Doré.
 
-💼 I'm a Data Analytics Consultant based in Paris, currently working in the automotive tech industry. I am the founder of [Fondation Alexandra Gaba](https://www.linkedin.com/company/fondation-alexandra-gaba/about/?viewAsMember=true)
+💼 I'm a Data Analytics Consultant based in Paris, currently working in the automotive tech industry.
+
+🎗️ I am the founder of [Fondation Alexandra Gaba](https://www.linkedin.com/company/fondation-alexandra-gaba/about/?viewAsMember=true)
 
 👀 I’m interested in analysis and prediction related to product analytics, healthcare, and user experiences. My work typically focuses on predictive analytics, reporting & insights, and defining new metrics. The tools I primarily use are Python, R, SQL, Tableau, and GCP.
 🫢 Fun-fact, I also have a software development background ([my formal github](https://github.com/sheismeld)).
