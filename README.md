@@ -11,7 +11,7 @@
 
 📝 I share my thoughts on LinkedIn especially on how to break into the analytics field.
 
-📫 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/elsadore/).
+📫 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/elsadore/) | [elsadore.com](https://elsadore.com).
 
 <!---
 elsedore/elsedore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
