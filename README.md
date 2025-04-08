@@ -1,6 +1,6 @@
-👋 Hi, I’m Elsa Doré.
+👋 Hi, I’m Elsa Doré. elsadore-bie-resume.pdf
 
-💼 I am a Data Analytics Consultant based in Paris, currently working in the automotive industry.
+💼 I am a Data Analytics Consultant based in Paris, currently working in the automotive industry ([see my resume](https://github.com/elsedore/resume/blob/main/elsadore-bie-resume.pdf)).
 
 🎗️ I am the founder of [Fondation Alexandra Gaba](https://www.linkedin.com/company/fondation-alexandra-gaba/about/?viewAsMember=true).
 
