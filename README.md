@@ -4,9 +4,9 @@
 
 🎗️ I am the founder of [Fondation Alexandra Gaba](https://www.linkedin.com/company/fondation-alexandra-gaba/about/?viewAsMember=true).
 
-👀 I’m interested in analysis and prediction related to product analytics, healthcare, and user experiences. My work typically focuses on predictive analytics, reporting & insights, and defining new metrics. The tools I primarily use are Python, R, SQL, Tableau, and GCP.
+👀 I’m interested in analysis and prediction related to product analytics, healthcare, and user experiences. My work typically focuses on predictive analytics, reporting & insights, and defining new metrics. The tools I primarily use are Python, R, SQL, GCP and Tableau ([my Tableau dashboards](https://public.tableau.com/app/profile/elsa.dore/vizzes)).
 
-🫢 Fun-fact, I also have a software development background ([my formal github](https://github.com/sheismeld)).
+🫢 Fun-fact, I also have a software development background ([my formal Github](https://github.com/sheismeld)).
 
 🌱 I recently worked on articles personnal recommandation systems based on user preferences for an online wearing shop. I'm currently learning more data scientist stuffs ([my rewards on Credly](https://www.credly.com/users/elsadore/edit)).
 
