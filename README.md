@@ -8,7 +8,7 @@
 
 🫢 Fun-fact, I also have a software development background ([my formal github](https://github.com/sheismeld)).
 
-🌱 I recently worked on articles personnal recommandation systems based on user preferences for an online wearing shop. I'm currently learning more data scientist stuffs.
+🌱 I recently worked on articles personnal recommandation systems based on user preferences for an online wearing shop. I'm currently learning more data scientist stuffs ([my rewards on Credly](https://www.credly.com/users/elsadore/edit)).
 
 🩷 I enjoy building communities in analytics & tech. I'm a member of Data For Good, by participating in Climate and Biodiversity projects, and you can usually find me in one of their Slack communities.
 
